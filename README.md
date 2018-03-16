@@ -4,7 +4,7 @@ Chrome background color changer
 概要
 -----
 
-ドメインによって背景色を変えるchrome extensionです。<br>
+どのURLか目印になる色付きのサイドバーをページ上に表示するchrome extensionです。<br>
 このchrome extensionは[Chrome拡張の雛形](https://github.com/waterada/chrome-ex-template)を使わせていただいてます。
 
 
@@ -12,7 +12,8 @@ Chrome background color changer
 使い方
 -----------------------------------
 
-
+オプションからサイドバーを表示するURL(部分入力可)と色を指定し、保存してください。
+ページにアクセスするとサイドバーが表示されます。
 
 
 License
