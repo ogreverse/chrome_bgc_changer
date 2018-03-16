@@ -1,0 +1,6 @@
+{
+  "label_url" : {"message": "URL"},
+  "label_bg_color": {"message": "背景色"},
+  "label_remark": {"message": "備考"},
+  "delete": { "message": "削除"}
+}
