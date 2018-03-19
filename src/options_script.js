@@ -11,6 +11,11 @@
 
     $('.operation__save-btn').on('click', function() {
         CUI.save('cui_list', makeStorageData());
+
+        $('.operation__message').text('保存しました');
+        setTimeout(function() {
+            $('.operation__message').text('');
+        }, 3000);
     });
 
     $('.operation__add-input-area-btn').on('click', addInputArea);
