@@ -26,7 +26,7 @@ function makeBorder(bgColor) {
         addClass: 'color-void',
         css: {
             position: 'fixed',
-            width: '1%',
+            width: '5px',
             height: '100vh',
             background: bgColor,
             zIndex: '9999'
