@@ -3,7 +3,7 @@
   "description": "どのURLか目印になる色付きのサイドバーをページ上に表示する。",
   "version": "0.1",
   "default_locale": "ja",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "content_scripts": [{
     "matches": ["http://*/*", "https://*/*"],
     "js": ["jquery-2.2.0.min.js", "cui.js", "content_script.js"]
